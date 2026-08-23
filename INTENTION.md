@@ -1,3 +1,9 @@
+# RETIRED
+
+**Successor: [prim.brand](https://github.com/eidos-agi/prim.brand).** Do not extend this document.
+
+---
+
 # OBIF Intention
 
 **Status:** load-bearing product intention for the public format  
